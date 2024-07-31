@@ -1,2 +1,2 @@
 # ApnacollegeDemore
-This is my first GIT HUB repository 
+This is my first GIT  repository 
